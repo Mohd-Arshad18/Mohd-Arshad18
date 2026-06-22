@@ -4,9 +4,13 @@
 </p>
 
 </br> 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE2bnBvNmQyMDV0dWZkY3Vpejg0eHRvZjV1a200bW0wYndocXFyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZ9HskQBBeBhe/giphy.gif" width=320 style="margin-right: 20px;" align="left">
+<table border="0">
+  <tr>
+    <td width="290">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE2bnBvNmQyMDV0dWZkY3Vpejg0eHRvZjV1a200bW0wYndocXFyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZ9HskQBBeBhe/giphy.gif" width=290 align="left">
+    </td>
+    <td>
 
-<div align="justify">
 
 <!--- About me -->
 ### About me
@@ -15,8 +19,9 @@
 Passionate about building modern web applications, exploring AI technologies, and contributing to open-source projects. Skilled in `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Express.js`, `PostgreSQL`, and `Git/GitHub`. Currently focused on `Full-Stack Development`, `AI Engineering`, and `cloud technologies` while continuously learning and improving my technical skills.
 
 
-</div>
-</br>
+</td>
+</tr>
+</table>
 </br>
 
 --- 
@@ -76,10 +81,9 @@ Passionate about building modern web applications, exploring AI technologies, an
 </div>
 
 --- 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2FpZ2w0djk5a3RlZ2tpbXBod2o4M2JnMHNiaXZpdG43MmZvbWxhYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2xu5zpSV3oqKcCSZ49/giphy.gif" width=300 style="margin-left: 20px;" align="right">
-
-<div align="justify">
+<table>
+  <tr>
+<td>
     
 ### A little more about me! 
  I enjoy taking on challenges that help me grow as a developer and expand my knowledge in technology.
@@ -98,7 +102,12 @@ When I'm not coding, you'll probably find me exploring new technologies, contrib
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-</div>
+</td>
+<td>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2FpZ2w0djk5a3RlZ2tpbXBod2o4M2JnMHNiaXZpdG43MmZvbWxhYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2xu5zpSV3oqKcCSZ49/giphy.gif" width=300 align="right">
+</td>
+</tr>
+</table>
 
 </br></br>
 
